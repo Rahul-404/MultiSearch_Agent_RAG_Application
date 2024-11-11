@@ -1,0 +1,6 @@
+ipykernel
+arxiv
+langchain_community
+langchain_ollama
+faiss-cpu
+wikipedia
